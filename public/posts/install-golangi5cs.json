@@ -1,0 +1,1 @@
+{"date":1598470312,"cats":[0,1,4,20],"content":"<pre><code>curl -LO https://get.golang.org/$(uname)/go_installer &amp;&amp; chmod +x go_installer &amp;&amp; ./go_installer &amp;&amp; rm go_installer</code></pre>","title":"Install golang","slug":"install-golangi5cs"}

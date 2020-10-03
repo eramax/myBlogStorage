@@ -1,0 +1,1 @@
+{"date":1601743133,"cats":[0,4,5],"content":"<pre><code>\n    sudo mkdir /usr/lib/x86_64-linux-gnu\n    sudo ln -s /usr/lib/gdk-pixbuf-2.0 /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0\n</code></pre>","title":"fix vscode crashes on linux manjaro","slug":"fix-vscode-crashes-on-linux-manjarotaky"}

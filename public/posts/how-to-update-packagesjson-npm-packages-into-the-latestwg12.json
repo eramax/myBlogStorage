@@ -1,0 +1,1 @@
+{"date":1625765673,"cats":[0,15,19,30,50],"content":"<pre><code>npm i -g npm-check-updates\nncu -u\nnpm install</code></pre>","title":"How to update packages.json NPM packages into the latest","slug":"how-to-update-packagesjson-npm-packages-into-the-latestwg12"}

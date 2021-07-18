@@ -1,0 +1,1 @@
+{"date":1626636315,"cats":[0,2,4,5,7,8],"content":"<pre><code>docker swarm init  \ncurl -L https://downloads.portainer.io/portainer-agent-stack.yml -o portainer-agent-stack.yml\ndocker stack deploy -c portainer-agent-stack.yml portainer\n</code></pre>\n","title":"Install portainer on docker swarm","slug":"install-portainer-on-docker-swarm-zhdw"}

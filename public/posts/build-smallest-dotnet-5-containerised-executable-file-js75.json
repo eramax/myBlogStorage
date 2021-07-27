@@ -1,0 +1,1 @@
+{"date":1627412269,"cats":[0,1,2,3,4,5,7,8,9,10,11,13],"content":"<pre><code>dotnet publish -c Release -o publish2   --runtime linux-x64  --self-contained true  /p:PublishTrimmed=true  /p:PublishSingleFile=true</code></pre>","title":"Build smallest dotnet 5 containerised executable file","slug":"build-smallest-dotnet-5-containerised-executable-file-js75"}

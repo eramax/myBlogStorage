@@ -1,0 +1,1 @@
+{"date":1628541866,"cats":[0,7,14,15,19,56],"content":"<pre><code>sudo npm cache clean -f\nsudo npm install -g n\nsudo n stable\nsudo n 4.4.4</code></pre>","title":"Change Node version","slug":"change-node-version-pxov"}

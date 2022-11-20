@@ -1,0 +1,1 @@
+{"date":1668973338,"cats":[0,4,15,19,56,57],"content":"<h2>List all node module dirs</h2><p>find . -name \"node_modules\" -type d -prune -print | xargs du -chs</p><h2>remove them:</h2><p>find . -name 'node_modules' -type d -prune -print -exec rm -rf '{}' ;</p>","title":"How to clean node_modules","slug":"how-to-clean-nodemodules-ker4"}
